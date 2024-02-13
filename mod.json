@@ -1,0 +1,9 @@
+{
+	"geode": "2.0.0-beta.9",
+	"gd": "2.204",
+	"version": "v1.0.0",
+	"id": "nova3954.geode-russian-roulette",
+	"name": "Russian Roulette",
+	"developer": "Nova3954",
+	"description": "Every time you jump, there is a 1/1000 chance that the level is fully reset. Good luck!"
+}
