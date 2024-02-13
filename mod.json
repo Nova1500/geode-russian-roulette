@@ -5,5 +5,6 @@
 	"id": "nova3954.geode-russian-roulette",
 	"name": "Russian Roulette",
 	"developer": "Nova3954",
-	"description": "Every time you jump, there is a 1/1000 chance that the level is fully reset. Good luck!"
+	"description": "Every time you jump, there is a 1/1000 chance that the level is fully reset. Good luck!",
+	"repository": "https://github.com/Nova1500/geode-russian-roulette"
 }
